@@ -5,6 +5,7 @@ function App(){
     <>
       <Password></Password>
       <Password></Password>
+      <Password></Password>
     </>
   );
 }
